@@ -1,11 +1,7 @@
-<img src="modularus-logo.svg" width="88" align="left" alt="ModularUS mark">
-
-# ModularUS
+# <img src="modularus-logo.svg" width="42" alt="ModularUS mark" align="absmiddle"> ModularUS
 
 **Modular ultrasound systems and algorithms.**<br>
 Open hardware, firmware, software, and intelligence for wearable and research ultrasound.
-
-<br clear="left">
 
 | Layer | Scope | Repositories |
 |---|---|---|
