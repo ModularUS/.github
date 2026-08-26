@@ -29,12 +29,12 @@ Everything the organisation currently collects. Core repositories are built and 
 | Repository | Layer | Origin | What it is | Reference |
 |---|---|---|---|---|
 | [xMasonV2](https://github.com/ModularUS/xMasonV2) | `td` | core | Transfer-matrix simulation framework for multilayer piezoelectric ultrasound transducers | [Spisani et al., IEEE IUS 2025](https://doi.org/10.1109/IUS62464.2025.11201533) · [DOI 10.5281/zenodo.22117703](https://doi.org/10.5281/zenodo.22117703) |
-| [anatomy-wearable-US-system](https://github.com/ModularUS/anatomy-wearable-US-system) | `edu` | core | Guided Colab exercises on wearable ultrasound system design: how frequency, channels, pulse rate, and data representation set data rate, power, and battery size | teaching material |
+| [croc-4-ultrasound](https://github.com/ModularUS/croc-4-ultrasound) | `el` | fork | IC design: Croc RISC-V SoC with the integrated ultrasound pulser, taped out in IHP 130 nm | [ETH IIS chip gallery, 2026](http://asic.ethz.ch/2026/Pulser.html) |
+| [pulser](https://github.com/ModularUS/pulser) | `el` | fork | IC design: BioPULP Pulser, a synthesizable multi-channel ultrasound pulser IP for the Croc RISC-V SoC | IEEE IUS 2026 |
 | [UbpS](https://github.com/ModularUS/UbpS) | `fw` | fork | Real-time continuous blood pressure sensing on an ultrasound IoT node, code and data | in review |
 | [Ultrasound-Heart-Rate](https://github.com/ModularUS/Ultrasound-Heart-Rate) | `fw` | fork | PuLsE: wrist-worn ultrasound heart-rate monitoring, code, firmware, and data | [Giordano et al., IEEE IoT Journal, 2025](https://doi.org/10.1109/JIOT.2025.3581380) |
 | [PEtracer](https://github.com/ModularUS/PEtracer) | `mi` | fork | PEtra: open polarisation-electric-field loop tracer for P(VDF-TrFE) transducer characterisation | [Wessner et al., IEEE UFFC-JS 2024](https://doi.org/10.1109/UFFC-JS60046.2024.10793576) |
-| [croc-4-ultrasound](https://github.com/ModularUS/croc-4-ultrasound) | `el` | fork | IC design: Croc RISC-V SoC with the integrated ultrasound pulser, taped out in IHP 130 nm | [ETH IIS chip gallery, 2026](http://asic.ethz.ch/2026/Pulser.html) |
-| [pulser](https://github.com/ModularUS/pulser) | `el` | fork | IC design: BioPULP Pulser, a synthesizable multi-channel ultrasound pulser IP for the Croc RISC-V SoC | IEEE IUS 2026 |
+| [anatomy-wearable-US-system](https://github.com/ModularUS/anatomy-wearable-US-system) | `edu` | core | Guided Colab exercises on wearable ultrasound system design: how frequency, channels, pulse rate, and data representation set data rate, power, and battery size | teaching material |
 
 Layers: `td` transducers · `el` circuits & systems · `fw` firmware · `sw` software · `ml` intelligence · `mi` metrology · `edu` education.
 
