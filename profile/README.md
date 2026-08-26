@@ -33,6 +33,7 @@ Everything the organisation currently collects. Core repositories are built and 
 | [pulser](https://github.com/ModularUS/pulser) | `el` | fork | IC design: BioPULP Pulser, a synthesizable multi-channel ultrasound pulser IP for the Croc RISC-V SoC | IEEE IUS 2026 |
 | [UbpS](https://github.com/ModularUS/UbpS) | `fw` | fork | Real-time continuous blood pressure sensing on an ultrasound IoT node, code and data | in review |
 | [Ultrasound-Heart-Rate](https://github.com/ModularUS/Ultrasound-Heart-Rate) | `fw` | fork | PuLsE: wrist-worn ultrasound heart-rate monitoring, code, firmware, and data | [Giordano et al., IEEE IoT Journal, 2025](https://doi.org/10.1109/JIOT.2025.3581380) |
+| [dasIT](https://github.com/ModularUS/dasIT) | `sw` | core | Delay-and-sum beamformer for plane-wave ultrasound in Python, with a Colab sandbox | — |
 | [PEtracer](https://github.com/ModularUS/PEtracer) | `mi` | fork | PEtra: open polarisation-electric-field loop tracer for P(VDF-TrFE) transducer characterisation | [Wessner et al., IEEE UFFC-JS 2024](https://doi.org/10.1109/UFFC-JS60046.2024.10793576) |
 | [anatomy-wearable-US-system](https://github.com/ModularUS/anatomy-wearable-US-system) | `edu` | core | Guided Colab exercises on wearable ultrasound system design, built around the ModulUS digital twin: how frequency, channels, pulse rate, and data representation set data rate, power, and battery size | [DOI 10.5281/zenodo.21023566](https://doi.org/10.5281/zenodo.21023566) · [slides DOI 10.5281/zenodo.21030966](https://doi.org/10.5281/zenodo.21030966) |
 
