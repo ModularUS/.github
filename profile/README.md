@@ -29,6 +29,7 @@ Everything the organisation currently collects. Core repositories are built and 
 | Repository | Layer | Origin | What it is | Reference |
 |---|---|---|---|---|
 | [xMasonV2](https://github.com/ModularUS/xMasonV2) | `td` | core | Transfer-matrix simulation framework for multilayer piezoelectric ultrasound transducers | [Spisani et al., IEEE IUS 2025](https://doi.org/10.1109/IUS62464.2025.11201533) · [DOI 10.5281/zenodo.22117703](https://doi.org/10.5281/zenodo.22117703) |
+| [anatomy-wearable-US-system](https://github.com/ModularUS/anatomy-wearable-US-system) | `edu` | core | Guided Colab exercises on wearable ultrasound system design: how frequency, channels, pulse rate, and data representation set data rate, power, and battery size | teaching material |
 | [UbpS](https://github.com/ModularUS/UbpS) | `fw` | fork | Real-time continuous blood pressure sensing on an ultrasound IoT node, code and data | in review |
 | [Ultrasound-Heart-Rate](https://github.com/ModularUS/Ultrasound-Heart-Rate) | `fw` | fork | PuLsE: wrist-worn ultrasound heart-rate monitoring, code, firmware, and data | [Giordano et al., IEEE IoT Journal, 2025](https://doi.org/10.1109/JIOT.2025.3581380) |
 | [PEtracer](https://github.com/ModularUS/PEtracer) | `mi` | fork | PEtra: open polarisation-electric-field loop tracer for P(VDF-TrFE) transducer characterisation | [Wessner et al., IEEE UFFC-JS 2024](https://doi.org/10.1109/UFFC-JS60046.2024.10793576) |
