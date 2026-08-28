@@ -46,7 +46,7 @@ Forks keep their upstream licenses.
 
 ## Funding
 
-The core platform work is supported by the Swiss National Science Foundation (SNSF) through the Ambizione project MiNI ([grant 233457](https://data.snf.ch/grants/grant/233457), principal investigator Christoph Leitner).
+The core platform work is supported by the Swiss National Science Foundation (SNSF) through the Ambizione project MiNI ([grant 233457](https://data.snf.ch/grants/grant/233457)).
 
 ## Contact
 
