@@ -44,10 +44,6 @@ Repositories go public when the associated work is published or released. Work i
 
 Forks keep their upstream licenses.
 
-## Funding
-
-The core platform work is supported by the Swiss National Science Foundation (SNSF) through the Ambizione project MiNI ([grant 233457](https://data.snf.ch/grants/grant/233457)).
-
 ## Contact
 
 Open an issue in the relevant repository. For everything else, reach out to the [maintainer](https://iis.ee.ethz.ch/people/person-detail.christoph-leitner.html).
