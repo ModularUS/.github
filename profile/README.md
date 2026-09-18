@@ -74,8 +74,6 @@ Data from Table I of [Leitner et al., IEEE IUS 2025](https://doi.org/10.1109/IUS
 
 **Licensing.** Hardware: Solderpad 2.1. Software and firmware: Apache-2.0. Documentation and data: CC-BY-4.0. Forks keep their upstream licenses.
 
-**Funding.** The core platform work is supported by the Swiss National Science Foundation through the Ambizione project MiNI ([grant 233457](https://data.snf.ch/grants/grant/233457)).
-
 **Contact.** Open an issue in the relevant repository.
 
 ## References
