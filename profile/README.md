@@ -31,8 +31,8 @@ Core repositories are built and maintained here. Forks aggregate results from ou
 |---|---|---|---|---|
 | [xMason](https://github.com/ModularUS/xMason) | Transducers | core | First-generation adapted Mason model for fully printed transducers, superseded by xMasonV2 | [Leitner et al., IEEE ISAF 2022](https://doi.org/10.1109/ISAF51494.2022.9870126) |
 | [xMasonV2](https://github.com/ModularUS/xMasonV2) | Transducers | core | Transfer-matrix simulation framework for multilayer piezoelectric ultrasound transducers | [Spisani et al., IEEE IUS 2025](https://doi.org/10.1109/IUS62464.2025.11201533) · [DOI 10.5281/zenodo.22117703](https://doi.org/10.5281/zenodo.22117703) |
-| [croc-4-ultrasound](https://github.com/ModularUS/croc-4-ultrasound) | Circuits & systems | fork | IC design: high-throughput ultrasound acquisition pipeline for the Croc RISC-V SoC | |
 | [pulser](https://github.com/ModularUS/pulser) | Circuits & systems | fork | IC design: Usonic, a synthesizable multi-channel ultrasound pulser IP for the Croc RISC-V SoC, taped out in IHP 130 nm | [ETH IIS chip gallery, 2026](http://asic.ethz.ch/2026/Pulser.html) |
+| [RXcroc](https://github.com/ModularUS/RXcroc) | Circuits & systems | fork | IC design: high-throughput ultrasound acquisition pipeline for the Croc RISC-V SoC | |
 | [UbpS](https://github.com/ModularUS/UbpS) | Firmware | fork | Continuous blood-pressure sensing on an ultrasound IoT node, code and data | |
 | [Ultrasound-Heart-Rate](https://github.com/ModularUS/Ultrasound-Heart-Rate) | Firmware | fork | PuLsE: wrist-worn ultrasound heart-rate monitoring | [Giordano et al., IEEE IoT Journal, 2025](https://doi.org/10.1109/JIOT.2025.3581380) |
 | [dasIT](https://github.com/ModularUS/dasIT) | Software | core | Delay-and-sum beamformer for plane-wave ultrasound in Python, with a Colab sandbox | |

@@ -9,7 +9,7 @@ Every platform, tool, and release here is built by the doctoral students, thesis
 ## What lives here
 
 - **Core repositories** are built and maintained in this organisation. Each carries a `CITATION.cff` and, on release, a Zenodo DOI, following the [FAIR principles](https://www.go-fair.org/fair-principles/): releases are findable, citable, and licensed for reuse.
-- **Linked forks** aggregate results from our projects whose home is the account of the student, collaborator, or partner group that built them. The forks stay untouched: credit, stars, and issues remain with the people who did the work.
+- **Linked forks** aggregate results from our projects whose home is the account of the student, collaborator, or partner group that built them. The code stays untouched, and credit, stars, and issues remain with the people who did the work. Where an upstream name does not say what the work is, the fork carries a descriptive name and description in this organisation. The upstream repository is unaffected, and the profile table names the fork as it is called here.
 - **Ecosystem projects** by other groups are linked from the organisation profile at their own homes, never copied here.
 
 ## Layers
